@@ -1,5 +1,5 @@
-import { Lexer } from "./lexer/lexer"
-import { TokenType } from "./lexer/token"
+import { Lexer } from "./parser/lexer/lexer"
+import { TokenType } from "./parser/lexer/token"
 
 const src = `var x = 10;
 var y = 20;

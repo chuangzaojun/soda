@@ -2,6 +2,7 @@ import { Token, TokenType } from "./token"
 
 const keywords: Map<string, TokenType> = new Map([
     ["import", TokenType.Import],
+    ["as", TokenType.As],
     ["true", TokenType.True],
     ["false", TokenType.False],
     ["nil", TokenType.Nil],

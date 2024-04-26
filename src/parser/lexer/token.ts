@@ -46,6 +46,7 @@ export enum TokenType {
 
     // keywords
     Import,
+    As,
     True,
     False,
     Nil,
