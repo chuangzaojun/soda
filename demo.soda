@@ -1,0 +1,7 @@
+var x = 10;
+var y = 20;
+var z = x + y;
+print(z);
+for (var i = 0; i < 10; i++) {
+    print(i);
+}
