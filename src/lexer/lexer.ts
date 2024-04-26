@@ -193,7 +193,7 @@ export class Lexer {
         }
 
         if (keywords.has(result)) {
-            return this.newToken(keywords.get(result)!, result)
+            return this.newToken(keywords.get(result)!)
         } else {
             return this.newToken(TokenType.Identifier, result)
         }
