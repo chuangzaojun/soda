@@ -49,7 +49,7 @@ export enum TokenType {
     As,
     True,
     False,
-    Nil,
+    Null,
     Var,
     Const,
     Func,

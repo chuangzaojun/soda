@@ -5,7 +5,7 @@ const keywords: Map<string, TokenType> = new Map([
     ["as", TokenType.As],
     ["true", TokenType.True],
     ["false", TokenType.False],
-    ["nil", TokenType.Nil],
+    ["null", TokenType.Null],
     ["var", TokenType.Var],
     ["const", TokenType.Const],
     ["func", TokenType.Func],
