@@ -1,2 +1,2 @@
-# soda
-The Soda Programming Language
+# The Soda Programming Language
+

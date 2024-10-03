@@ -1,0 +1,5 @@
+import io as io
+
+var a = 1
+
+io.print(a)
